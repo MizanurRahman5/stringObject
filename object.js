@@ -15,4 +15,4 @@ const bottle = [
     }
 ]
 
-console.log(bottle[0].name);
+console.log(typeof bottle[0].name);
